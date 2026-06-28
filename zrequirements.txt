@@ -1,0 +1,7 @@
+requests
+python-dotenv
+scrapegraphai
+playwright
+pandas
+beautifulsoup4
+lxml
