@@ -1,23 +1,25 @@
 from tools.openrouter_client import ask_llm
 
 
-def find_leads(niche):
+def find_leads():
 
-    prompt = f"""
-    Find 5 companies/founders in the niche:
+    prompt = """
+Find 5 AI startup founders that could benefit from
+a clipping agency.
 
-    {niche}
+Return ONLY JSON.
 
-    Return JSON:
+Format:
 
-    [
-        {{
-            "name":"",
-            "company":"",
-            "website":"",
-            "reason":""
-        }}
-    ]
-    """
+[
+    {
+        "name":"",
+        "company":"",
+        "website":"",
+        "email":"",
+        "reason":""
+    }
+]
+"""
 
     return ask_llm(prompt)
