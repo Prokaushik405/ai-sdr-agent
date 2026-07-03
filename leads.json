@@ -1,0 +1,41 @@
+[
+    {
+        "company_name":"Growth List",
+        "founder_name":"Patrick Campbell",
+        "founder_role":"Founder & CEO",
+        "company_website":"https:\/\/growthlist.co\/india-startups\/",
+        "emails":[
+            "press@growthlist.co"
+        ],
+        "phone_number":null,
+        "whatsapp_number":null,
+        "linkedin":"https:\/\/www.linkedin.com\/company\/growthlist-co",
+        "instagram":"NA",
+        "youtube":"NA",
+        "twitter":"https:\/\/twitter.com\/GrowthLists",
+        "discord":"NA",
+        "telegram":"NA",
+        "niche":"B2B sales leads \/ startup lead generation",
+        "company_description":"Growth List provides verified contacts, job openings, and tech intelligence about high\u2011growth, funded startups to recruiting firms, dev shops, and growth agencies, delivering weekly lead lists.",
+        "suitable_for_clipping_agency":null,
+        "whatsapp":"NA",
+        "source":"https:\/\/growthlist.co\/india-startups\/",
+        "final_score":84,
+        "priority":"HOT",
+        "reachable":true,
+        "outreach_channel":"email",
+        "tier":"C",
+        "trend_signals":[
+            "growth",
+            "youtube"
+        ],
+        "buying_score":60,
+        "buying_signals":[
+            "instagram",
+            "discord",
+            "twitter",
+            "youtube",
+            "linkedin"
+        ]
+    }
+]
